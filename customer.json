@@ -1,0 +1,37 @@
+[ 
+    {
+        "id":1,
+        "first_name": "Aman",
+        "last_name": "Gupta",
+        "city" : "Ahmedabad",
+        "company" : "SublimeDataSystems"
+    },
+    {
+        "id":2,
+        "first_name": "Megh",
+        "last_name": "Godbole",
+        "city" : "Vadodara",
+        "company" : "SublimeDataSystems"
+    },
+    {
+        "id":3,
+        "first_name": "Aditi",
+        "last_name": "Gohil",
+        "city" : "Ahmedabad",
+        "company" : "SublimeDataSystems"
+    },
+    {
+        "id":4,
+        "first_name": "Bhavika",
+        "last_name": "khatri",
+        "city" : "Surat",
+        "company" : "SublimeDataSystems"
+    },
+    {
+        "id":5,
+        "first_name": "Manav",
+        "last_name": "Tamboli",
+        "city" : "Vadodara",
+        "company" : "SublimeDataSystems"
+    }
+]
